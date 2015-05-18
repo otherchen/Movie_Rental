@@ -1,0 +1,85 @@
+BEGIN Jacky
+NAME: Chen
+ADDRESS: 
+CREDIT CARD NUMBER: 
+CREDIT CARD DATE: 
+CREDIT CARD CODE: 
+CHARGE: 0
+PASSWORD: 
+MOVIE: The Hangover
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+2 The Lord of the Rings: The Return of the King
+2 Battlefield Earth
+4 The Shawshank Redemption
+END RATINGS
+END
+BEGIN JackyChen
+NAME: Jacky
+ADDRESS: 1234
+CREDIT CARD NUMBER: 1234
+CREDIT CARD DATE: 1234
+CREDIT CARD CODE: 1234
+CHARGE: 1.5
+PASSWORD: 81dc9bdb52d04dc20036dbd8313ed055
+MOVIE: Battlefield Earth
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+END RATINGS
+END
+BEGIN aaroncot
+NAME: Aaron Cote
+ADDRESS: 
+CREDIT CARD NUMBER: 
+CREDIT CARD DATE: 
+CREDIT CARD CODE: 
+CHARGE: 0
+PASSWORD: 
+MOVIE: The Hangover
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+2 The Lord of the Rings: The Return of the King
+2 The Hangover
+5 Battlefield Earth
+2 The Shawshank Redemption
+END RATINGS
+END
+BEGIN andchen
+NAME: Andrew Chen
+ADDRESS: 2421 W. Shinnecock Ct.
+CREDIT CARD NUMBER: 24578103
+CREDIT CARD DATE: 14/6
+CREDIT CARD CODE: 1243
+CHARGE: 19.5
+PASSWORD: 8e74a2bf88254a92236e9b5e03ed85cb
+MOVIE: The Hangover
+BEGIN QUEUE
+Battlefield Earth
+The Princess Bride
+END QUEUE
+BEGIN RATINGS
+1 The Hangover
+2 Battlefield Earth
+END RATINGS
+END
+BEGIN dkempe
+NAME: David Kempe
+ADDRESS: 
+CREDIT CARD NUMBER: 
+CREDIT CARD DATE: 
+CREDIT CARD CODE: 
+CHARGE: 0
+PASSWORD: 
+MOVIE: The Hangover
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+1 The Princess Bride
+2 The Lord of the Rings: The Return of the King
+3 Battlefield Earth
+2 The Shawshank Redemption
+END RATINGS
+END

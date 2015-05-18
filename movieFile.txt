@@ -1,0 +1,48 @@
+BEGIN The Princess Bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+ACTOR: Leonardo Dicaprio
+ACTOR: James Bond
+COST: 1.5
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR: Leonardo Dicaprio
+ACTOR: Logan Lerman
+COST: 1.5
+END
+BEGIN The Hobbit: The Desolation of Smaug
+KEYWORD: Adventure
+KEYWORD: Fantasy
+ACTOR: Logan Lerman
+COST: 1.5
+END
+BEGIN The Hangover
+KEYWORD: comedy
+KEYWORD: weird
+ACTOR: James Bond
+ACTOR: Clark Kent
+COST: 1.5
+END
+BEGIN The Lord of the Rings: The Return of the King
+KEYWORD: Adventure
+ACTOR: Walter White
+ACTOR: Clark Kent
+COST: 1.5
+END
+BEGIN Battlefield Earth
+KEYWORD: Adventure
+ACTOR: Leonardo Dicaprio
+ACTOR: Clark Kent
+COST: 1.5
+END
+BEGIN The Shawshank Redemption
+KEYWORD: Adventure
+ACTOR: Morgan Freeman
+ACTOR: Andy Dufran
+COST: 1.5
+END
