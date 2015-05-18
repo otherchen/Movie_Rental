@@ -1,4 +1,4 @@
-#Movie_Rental Project
+# Movie_Rental Project
 
 - **Name**: Andrew Chen
 - **Class**: CSCI104 (Data Structures and Object Oriented Design)
