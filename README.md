@@ -1,10 +1,6 @@
-# CS 104 Project Repository
+#Movie_Rental Project
 
 - **Name**: Andrew Chen
-- **USC ID**: 5688719054
-- **Email**: chen681@usc.edu
+- **Class**: CSCI104 (Data Structures and Object Oriented Design)
 
-Project Part 3:
-	1. Compile using "qmake -project", "qmake", "make" sequence
-	2. I have trouble getting the searched movies to update when "Next" is clicked
-	3. There are seg faults once the end of the queue is reached.
+This is a program that lets the user create a profile, search for movies, and rent movies from a provided list. It uses a graph where each user is a node and calculates the simularities of each user using their ratings they provide for movies and recommends new movies for users using these calculated simularities.
